@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and Engineering.
 - 🌱 I’m currently learning Python, R and SQL.
 - 💞️ I’m looking to collaborate on interesting data analytics, AI projects.
-- 📫 How to reach me ...
+- 📫 How to reach me.... email - vazenarayan13@gmail.com
 
 <!---
 narayanvaze/narayanvaze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
