@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @narayanvaze
-- 👀 I’m interested in Software development and Data Scienece.
+- 👀 I’m interested in Software development and Data Analytics.
 - 🌱 I’m currently learning Java, C#, Python and Machine Learning.
-- 💞️ I’m looking to collaborate on interesting Software, data analytics, ML-DL projects.
+- 💞️ I’m looking to collaborate on interesting Software/application development and data analytics.
 - 📫 How to reach me.... email - vazenarayan13@gmail.com
 
 <!---
